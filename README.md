@@ -5,4 +5,6 @@
 * 📫 Feel free to reach me at [ Gmail ](ayush.singh.2k2@gmail.com)
 * 📚 Skills - 
 <br>
+<p>
 <img src='https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg' alt='Python' height=40 width=40><img src='https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg' alt='C programming Language' height=40 width=40><img src='https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg' alt='C++' height=40 width=40><img src='https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg' alt='Java' height=40 width=40><img src='https://developer.android.com/studio/images/studio-icon-preview.svg',alt='Android Studio' height=40 width=40><img src='https://devicons.github.io/devicon/devicon.git/icons/django/django-plain.svg' alt='Django' height=40 width=40><img src='https://jupyter.org/assets/nav_logo.svg' alt='Project Jupyter' height=40 width=50>
+</p>
