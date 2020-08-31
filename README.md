@@ -1,11 +1,6 @@
-<h1>Ayush Singh</h1>
-<section>I am currently  an undergrad student,pursuing my degree in Mathematics and Computing.<br>
-	My areas of interest are Machine Learning,Statistics,Data Preprocessing,cleaning and Visualization.
-</section>
-<h2>Introduction</h2>
-<p>
-	<img src="https://image.flaticon.com/icons/svg/25/25231.svg",alt='git',width=50, height=50>
-</p>
-<h2>About</h2>
-<p></p>
+<h1 align='center'>Hi 👋,I am Ayush</h1>
+<h3 align='left'>I am currently an undergraduate student pursuing my degree in the feild of mathematics and computing, My areas of Interest include Machine Leaning,Data Visualization,Android development. 
+</h3>
+- I am currently leaning to build and deploy Deep Learning models, using OpenCV and Tensorflow.
+- feel free to reach me at [Gmail]*ayush.singh.2k2@gmail.com*
 	
