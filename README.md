@@ -1,6 +1,6 @@
 <h1 align='center'>Hi 👋,I am Ayush</h1>
 
-<h3 align='left'>I am currently an undergraduate student pursuing my degree in the field of Mathematics and Computing, My areas of interest include Machine Leaning,Data Visualization,Android development. </h3>
+<h3 align='left'>I am currently an undergraduate student pursuing my degree in the field of Mathematics and Computing, I am eager to give my contributions in the field of Machine Learning,Data Visualization, Linear Algebra. </h3>
 
 * 🌱 I am currently leaning to build and deploy Deep Learning models, using OpenCV and Tensorflow.
 
