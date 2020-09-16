@@ -22,11 +22,3 @@
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=Ayush2k2)](https://github.com/anuraghazra/github-readme-stats)
 
-
-`
->>> l=simplify((conjugate(g)**(-1))*simplify(g*conjugate(g)))
->>> print(l)
-(x - I)/(x**3 + x)
->>> sp.limit(l, x, 0)
-−∞*i
-`
