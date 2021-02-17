@@ -8,10 +8,10 @@
 
 ## Languages
 <p>
-<img src='https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg' alt='Python' height=50 width=50>
-  <img src='https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg' alt='C programming Language' height=50 width=50>
-  <img src='https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg' alt='C++' height=50 width=50>
-  <img src='https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg' alt='Java' height=50 width=50>
+<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg' alt='Python' height=50 width=50>
+  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg' alt='C programming Language' height=50 width=50>
+  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg' alt='C++' height=50 width=50>
+  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg' alt='Java' height=50 width=50>
   
   </br>
 </p>
@@ -19,7 +19,7 @@
 ## Frameworks 
 <p>
   <img src='https://developer.android.com/studio/images/studio-icon-preview.svg',alt='Android Studio' height=50 width=50>
-  <img src='https://devicons.github.io/devicon/devicon.git/icons/django/django-plain.svg' alt='Django' height=50 width=60>
+  <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg' alt='Django' height=50 width=60>
   <img src='https://jupyter.org/assets/nav_logo.svg' alt='Project Jupyter' height=50 width=60>
   <img align="left" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" />
   <img align="left" height="50" width="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" />
